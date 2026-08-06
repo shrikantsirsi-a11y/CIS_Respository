@@ -1,0 +1,14 @@
+2026-08-05 06:16:09 [INFO] ==== Temp Directory Cleanup Start ====
+2026-08-05 06:16:09 [INFO] Computer name: c261-23-1
+2026-08-05 06:16:09 [INFO] OlderThanDays: 0
+2026-08-05 06:16:09 [INFO] DryRun: False
+2026-08-05 06:16:09 [INFO] Rollback mode: False
+2026-08-05 06:16:09 [INFO] Cutoff date: 2026-08-05 06:16:09
+2026-08-05 06:16:09 [INFO] Rollback session id: 20260805-061609
+2026-08-05 06:16:09 [INFO] Scanning target path: C:\Users\labuser\AppData\Local\Temp
+2026-08-05 06:16:09 [INFO] Moved file to rollback store: C:\Users\labuser\AppData\Local\Temp\2\exthost-211632.cpuprofile
+2026-08-05 06:16:10 [WARN] Skipping locked file: C:\Users\labuser\AppData\Local\Temp\2\f5306f93-7d92-446e-b3f5-7975871db52f.tmp
+2026-08-05 06:16:10 [INFO] Moved file to rollback store: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat
+2026-08-05 06:16:10 [INFO] Moved file to rollback store: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py
+2026-08-05 06:16:10 [INFO] Saved rollback manifest: C:\users\labuser\documents\training\day3\rollback-store\20260805-061609\manifest.json
+2026-08-05 06:16:10 [INFO] ==== Temp Directory Cleanup Complete ====

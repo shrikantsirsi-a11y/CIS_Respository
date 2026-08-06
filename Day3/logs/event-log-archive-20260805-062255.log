@@ -1,0 +1,11 @@
+2026-08-05 06:22:55 [INFO] ==== Event Log Archive Start ====
+2026-08-05 06:22:55 [INFO] Computer name: c261-23-1
+2026-08-05 06:22:55 [INFO] OlderThanDays: 3650
+2026-08-05 06:22:55 [INFO] DryRun: True
+2026-08-05 06:22:55 [INFO] Rollback mode: False
+2026-08-05 06:22:55 [INFO] Cutoff date: 2016-08-07 06:22:55
+2026-08-05 06:22:55 [INFO] Requested logs: Application
+2026-08-05 06:22:55 [INFO] Rollback session id: 20260805-062255
+2026-08-05 06:22:55 [INFO] Evaluating event log: Application
+2026-08-05 06:22:55 [INFO] Skipping log because newer records exist. Latest event: 2026-08-05 06:10:19 | Log: Application
+2026-08-05 06:22:55 [INFO] ==== Event Log Archive Complete ====

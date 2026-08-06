@@ -1,0 +1,9 @@
+2026-08-05 05:30:39 [INFO] ==== Temp Directory Cleanup Start ====
+2026-08-05 05:30:39 [INFO] Computer name: c261-23-1
+2026-08-05 05:30:39 [INFO] OlderThanDays: 3650
+2026-08-05 05:30:39 [INFO] DryRun: True
+2026-08-05 05:30:39 [INFO] Rollback mode: False
+2026-08-05 05:30:39 [INFO] Cutoff date: 2016-08-07 05:30:39
+2026-08-05 05:30:39 [INFO] Rollback session id: 20260805-053039
+2026-08-05 05:30:39 [INFO] Scanning target path: C:\Users\labuser\Documents\training\Day3
+2026-08-05 05:30:39 [INFO] ==== Temp Directory Cleanup Complete ====

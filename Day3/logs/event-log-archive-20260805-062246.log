@@ -1,0 +1,7 @@
+2026-08-05 06:22:46 [INFO] ==== Event Log Archive Start ====
+2026-08-05 06:22:46 [INFO] Computer name: c261-23-1
+2026-08-05 06:22:46 [INFO] OlderThanDays: 3650
+2026-08-05 06:22:46 [INFO] DryRun: True
+2026-08-05 06:22:46 [INFO] Rollback mode: False
+2026-08-05 06:22:46 [ERROR] The property 'Count' cannot be found on this object. Verify that the property exists.
+2026-08-05 06:22:46 [INFO] ==== Event Log Archive Complete ====
